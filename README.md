@@ -5,7 +5,7 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | Mohammed Abid Ali Sameer |
+| Product Owner | Mohammed Abid Sameer |
 | Scrum Master | |
 | Developer | |
 | Developer | |
