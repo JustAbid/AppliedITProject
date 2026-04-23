@@ -1,5 +1,5 @@
-# Project Name
-EcoConnect
+# EcoConnect
+
 > One-sentence description of what this project does and who it is for.
 
 ## Team
