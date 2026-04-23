@@ -1,7 +1,6 @@
 # EcoConnect
 
-> One-sentence description of what this project does and who it is for.
-
+“This platform connects people with local environmental volunteering events, helping them contribute to sustainability while improving mental well-being and community engagement.”
 ## Team
 
 | Role | Name |
@@ -14,7 +13,7 @@
 
 ## Project Overview
 
-“This platform connects people with local environmental volunteering events, helping them contribute to sustainability while improving mental well-being and community engagement.”
+
 
 ## Architecture
 
