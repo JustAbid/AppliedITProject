@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-_Brief description of the problem you are solving, your target users, and the core value your product delivers._
+“This platform connects people with local environmental volunteering events, helping them contribute to sustainability while improving mental well-being and community engagement.”
 
 ## Architecture
 
