@@ -1,6 +1,6 @@
 # EcoConnect
 
-“This platform connects people with local environmental volunteering events, helping them contribute to sustainability while improving mental well-being and community engagement.”
+This platform connects people with local environmental volunteering events, helping them contribute to sustainability while improving mental well-being and community engagement.
 ## Team
 
 | Role | Name |
